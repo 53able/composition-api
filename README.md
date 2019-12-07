@@ -5,6 +5,7 @@
 `@vue/composition-api` provides a way to use `Vue 3.0`'s **Composition api** in `Vue 2.x`.
 
 [**中文文档**](./README.zh-CN.md)
+[**日本語**](./README.ja.md)
 
 ---
 
